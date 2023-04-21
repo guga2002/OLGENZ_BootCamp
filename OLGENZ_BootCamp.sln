@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLGENZ_BootCamp", "OLGENZ_BootCamp\OLGENZ_BootCamp.csproj", "{A3FBA01D-FFCD-4D3C-BA66-17781D2421C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FBA01D-FFCD-4D3C-BA66-17781D2421C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FBA01D-FFCD-4D3C-BA66-17781D2421C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FBA01D-FFCD-4D3C-BA66-17781D2421C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FBA01D-FFCD-4D3C-BA66-17781D2421C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF678FAC-30EC-46B5-BB7C-BE3B61963498}
+	EndGlobalSection
+EndGlobal
